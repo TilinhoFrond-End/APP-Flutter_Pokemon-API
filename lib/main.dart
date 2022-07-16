@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:projeto_poke/view/app_widgets.dart';
 
-void main() {
+void main() async{
   await initialization(null);
   runApp(const MyApp());
 }
