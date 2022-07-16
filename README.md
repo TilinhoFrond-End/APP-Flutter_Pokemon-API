@@ -24,14 +24,14 @@ simples e uma orientação sobre desenvolvimento móvel e uma referência comple
 
 ## API
 - API a ser utilizada como base é a API fornecida pelo [pokeAPI](https://pokeapi.co)
-## Telas
+## Screens / Telas
 
-### Tela de apresentação e Home
+### Presentation Screen / Tela de apresentação
 ![poke1](https://user-images.githubusercontent.com/55416921/179369397-f638ea3d-8c74-4256-b28e-88c8cd824aee.png)
-### Tela de Home
+### Home Screen / Tela de Home
 ![poke2](https://user-images.githubusercontent.com/55416921/179369403-42f8998e-3ffc-48d3-a1aa-7ca49ee16836.png)
 ![poke3](https://user-images.githubusercontent.com/55416921/179370373-d522931b-23af-48ed-a514-280a839cf5a5.png)
-### Tela de Detalhes do Pokémon
+### Pokémon Details Screen / Tela de Detalhes do Pokémon
 ![poke6](https://user-images.githubusercontent.com/55416921/179370376-3c4abbe7-05a0-4cb4-b250-de9a7f0d0532.png)
 ![poke5](https://user-images.githubusercontent.com/55416921/179370377-31607a7c-d6b0-45da-82a4-e9381edb79fc.png)
 ![poke4](https://user-images.githubusercontent.com/55416921/179370378-9c719989-e094-49a4-8d7e-3175efb50e8d.png)
