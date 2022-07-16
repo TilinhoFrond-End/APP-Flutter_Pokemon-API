@@ -30,7 +30,7 @@ simples e uma orientação sobre desenvolvimento móvel e uma referência comple
 ![poke1](https://user-images.githubusercontent.com/55416921/179369397-f638ea3d-8c74-4256-b28e-88c8cd824aee.png)
 ### Home Screen / Tela de Home
 ![poke2](https://user-images.githubusercontent.com/55416921/179369403-42f8998e-3ffc-48d3-a1aa-7ca49ee16836.png)
-![poke3](https://user-images.githubusercontent.com/55416921/179370373-d522931b-23af-48ed-a514-280a839cf5a5.png)
+![poke3](https://user-images.githubusercontent.com/55416921/179370481-0b7bf748-3a71-4821-bc30-39fa71817b5a.png)
 ### Pokémon Details Screen / Tela de Detalhes do Pokémon
 ![poke6](https://user-images.githubusercontent.com/55416921/179370376-3c4abbe7-05a0-4cb4-b250-de9a7f0d0532.png)
 ![poke5](https://user-images.githubusercontent.com/55416921/179370377-31607a7c-d6b0-45da-82a4-e9381edb79fc.png)
